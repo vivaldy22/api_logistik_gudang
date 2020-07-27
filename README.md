@@ -1,6 +1,8 @@
 ## Usage Instruction
 
-### Replace {yourport} with your port
+#### - Don't forget to change the db's password in .env file
+#### - Don't forget to add the database to your computer, I already provided the data in db.sql
+#### - Replace {yourport} with your port
 
 ### Windows
 
@@ -19,4 +21,4 @@
 
 ### url: http://localhost:yourport/
 
-### detailed endpoints will be available later :)
+#### detailed endpoints will be available later :)
