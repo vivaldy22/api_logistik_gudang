@@ -1,7 +1,6 @@
 ## Usage Instruction
 
-#### - Don't forget to change the db's password in .env file
-#### - Don't forget to add the database to your computer, I already provided the data in db.sql
+#### - Database already in the cloud
 #### - Replace {yourport} with your port
 
 ### Windows
